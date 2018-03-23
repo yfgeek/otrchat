@@ -24,9 +24,9 @@ For more information, please visit my [blog](http://blog.yfgeek.com/2016/12/06/O
 
 ## Snapshots
 
-[](img/otr-0.png)
+![](img/otr-0.png)
 
-[](img/otr-1.png)
+![](img/otr-1.png)
 
 ## Client
 

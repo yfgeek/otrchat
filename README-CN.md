@@ -21,11 +21,11 @@
 
 ## Snapshots
 
-[](img/otr.png)
+![](img/otr.png)
 
-[](img/otr-0.png)
+![](img/otr-0.png)
 
-[](img/otr-1.png)
+![](img/otr-1.png)
 
 
 ## 客户端
